@@ -14,7 +14,7 @@ import com.SpringForm.Services.StudentsService;
 
 @RestController
 
-@RequestMapping("/srm")
+@RequestMapping("/college")
 public class StudentController {
 	
 	@Autowired
